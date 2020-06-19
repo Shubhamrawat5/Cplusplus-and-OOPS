@@ -4,7 +4,7 @@
 
 #include<iostream>
 using namespace std;
-#define n 11 // range 0 to 9 
+#define n 10 // range 0 to 9 
 
 void CountSort(int a[],int size)
 {
